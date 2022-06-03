@@ -1,0 +1,18 @@
+body {
+  background-color: #ffffff;
+}
+
+.center {
+  margin: auto;
+  margin-top: 200px;
+}
+
+#header {
+  font-family: "Righteous", sans-serif;
+  font-size: 3rem;
+}
+
+.book-list {
+  margin-top: 50px;
+  visibility: hidden;
+}
